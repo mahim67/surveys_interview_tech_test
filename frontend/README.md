@@ -14,9 +14,9 @@
 * ## Features
     > ## Topic of Feedback
     >> #### Feedback wise Questions
-    >>> #### Share Form unique
-    >>> #### Question Answers  (Random User ans Surveys)
-* ## Some patterns from react whcih has been use in applciation, those are : 
+    >>> #### Share link of Surveys Form 
+    >>> #### Question Answers  (Random user submitted feedback)
+* ## Some patterns from react which has been use in applciation, those are : 
     > Function Component State Management.
     >
     > Lifecycle Methods.
@@ -31,7 +31,7 @@
     >>
     >> useEffect.
     >>
-    >> createContext.
+    >> useRef.
     >>
     >> useNavigate.
 
