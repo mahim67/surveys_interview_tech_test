@@ -38,7 +38,7 @@
     * ## Some Screenshot from Application
     #### Login Page
     [![Login](./login.png "login")](./login.png)
-    #### Register Page
+    #### Registation Page
     [![register](./register.png "register")](./register.png)
     #### Topic of Feedback List [Created User wise data list]
     [![feedback_list](./feedback_list.png "feedback_list")](./feedback_list.png)
